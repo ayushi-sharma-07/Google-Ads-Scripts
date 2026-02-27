@@ -73,13 +73,14 @@ This script is especially useful for:
 
 ## Repository Structure
 google-ads-helper-scripts/
-│
-├── README.md
-├── LICENSE
-│
-├── scripts/
-│ ├── campaign-structure-export/
-│ │ └── script.js
+|
+|
+|─ README.md
+|─ LICENSE
+|
+|─ scripts/
+    |─ Tracker/
+        |─ Export_Campaign_Categories
 │ │
 │ ├── full-account-export/
 │ │ └── script.js
@@ -152,7 +153,7 @@ This repository is designed for:
 
 ---
 
-## Future Scripts Planned
+## Future Scripts Planned (upcoming)
 
 - Search Term Mining Script
 - Automatic Budget Monitoring
@@ -186,5 +187,9 @@ You are free to use and modify these scripts.
 
 ## Author
 
-Ayushi Sharma  
+Name: Ayushi Sharma
 Performance Marketer | Google Ads Specialist
+
+Email: sharmaayu0701@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/ayushi-sharma07/

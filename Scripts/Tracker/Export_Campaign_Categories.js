@@ -1,7 +1,7 @@
 /*
-Google Ads Script: Campaign Structure Export
+Google Ads Script: Campaign Categories Export
 
-This script exports the enabled Search campaign structure
+This script exports the enabled Search campaign categories
 (Campaign → Ad Groups) into a Google Sheet.
 
 Features:
