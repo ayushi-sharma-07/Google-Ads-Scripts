@@ -188,6 +188,7 @@ You are free to use and modify these scripts.
 ## Author
 
 Name: Ayushi Sharma
+
 Performance Marketer | Google Ads Specialist
 
 Email: sharmaayu0701@gmail.com
