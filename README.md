@@ -36,6 +36,7 @@ This script is useful for:
 - Campaign documentation
 - Reporting structures to clients
 - Quick health checks of active campaigns
+- Budget Exhaustion Reminder
 
 ---
 
@@ -66,8 +67,8 @@ This script is especially useful for:
 - RSA optimization
 - Landing page review
 - Keyword analysis
-- Competitor benchmarking
 - Campaign documentation
+- Budget alerts
 
 ---
 
@@ -139,6 +140,7 @@ These scripts are commonly used for:
 - Agency workflows
 - Scaling account management
 - Data exports for analysis
+- Low Budget Reminder
 
 ---
 
